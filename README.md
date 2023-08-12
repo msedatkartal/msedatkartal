@@ -29,6 +29,8 @@ ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
 
 <b>My GitHub Stats</b>
 
+<a href="http://www.github.com/msedatkartal"><img src="https://github-readme-stats.vercel.app/api?username=msedatkartal&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=facc15&bg_color=ffffff&hide_border=true&show_icons=true" alt="msedatkartal's GitHub stats" /></a>
+
 <a href="http://www.github.com/msedatkartal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=msedatkartal&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <a href="https://github.com/msedatkartal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msedatkartal&langs_count=10&title_color=3382ed&text_color=000000&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
