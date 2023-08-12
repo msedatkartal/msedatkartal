@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a Full Stack Web Developer with a passion for
 
 * 🌍  I'm based in İstanbul/Türkiye
 * 🖥️  See my portfolio at [My Portfolio](http://msedatkartal.github.io/portfolio-1/)
-* ✉️  You can contact me at [mmsedatkartal@gmail.com](mailto:mmsedatkartal@gmail.com)
+* ✉️  You can contact me at [msedatkartal@gmail.com](mailto:msedatkartal@gmail.com)
 * 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on Projects.
 
